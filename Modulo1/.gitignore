@@ -1,6 +1,6 @@
 # Estado de Terraform
 *.tfsate
-*.tfstate.*
+*.tfstate*
 
 # Directorio de trabajo interno de Terraform
 .terraform/
